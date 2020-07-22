@@ -1,14 +1,18 @@
 <table>
   <tr>
     <td>
-      <h3 align="center">
-        About me
-      </h3>
+      <div align="center">
+        <strong>
+          About me
+        </strong>
+      </div>
     </td>
     <td>
-       <h3 align="center">
-         Technologies
-      </h3>
+      <div align="center">
+        <strong>
+          Technologies
+        </strong>
+      </div>
     </td>
   </tr>
   <tr>
