@@ -25,6 +25,9 @@
          <a href="https://www.linkedin.com/in/grzegorz-babiarz/">
           <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
          </a>
+         <a href="https://codemylife.grzegorzbabiarz.com/">
+           <img src="https://img.shields.io/badge/Code%20my%20life-%237E728C?style=for-the-badge" alt="Code my life">
+        </a>
       </p>
     </td>
     <td>
